@@ -1,0 +1,6 @@
+{
+  "name": "TrustLens AI",
+  "description": "Enterprise Pipeline Optimization, Expense Rationalization & Product Intelligence Workspace powered by collaborative AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
